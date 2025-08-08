@@ -1,0 +1,1 @@
+This is semo file creted to be used in the EOF.c file to understand the use of EOF.
